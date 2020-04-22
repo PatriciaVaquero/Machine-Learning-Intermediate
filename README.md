@@ -1,6 +1,6 @@
 ## :pushpin: Machine-Learning-Intermediate
 
-This repository is focused on those who have some knowledge of Python and had programmed before.
+This repository is focused on those who have some prior knowledge in Python!
 
 :warning: **IMPORTANT** :warning:
 
