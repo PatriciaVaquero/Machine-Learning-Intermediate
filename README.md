@@ -1,1 +1,1 @@
-# Machine-Learning-Intermediate-
+# Machine Learning Intermediate
